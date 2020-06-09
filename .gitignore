@@ -4,3 +4,5 @@ ipch/
 
 *.sdf
 .idea
+CMakeLists.txt
+cmake-build-debug/
