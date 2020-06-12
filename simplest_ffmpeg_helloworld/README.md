@@ -1,19 +1,19 @@
-×î¼òµ¥µÄFFmpeg Helloworld³ÌĞò
+æœ€ç®€å•çš„FFmpeg Helloworldç¨‹åº
 Simplest FFmpeg HelloWorld
 
-À×Ïöæè Lei Xiaohua
+é›·éœ„éª… Lei Xiaohua
 leixiaohua1020@126.com
-ÖĞ¹ú´«Ã½´óÑ§/Êı×ÖµçÊÓ¼¼Êõ
+ä¸­å›½ä¼ åª’å¤§å­¦/æ•°å­—ç”µè§†æŠ€æœ¯
 Communication University of China / Digital TV Technology
 http://blog.csdn.net/leixiaohua1020
 
 
-±¾³ÌĞòÊÇ»ùÓÚFFmpegº¯ÊıµÄ×î¼òµ¥µÄ³ÌĞò¡£Ëü¿ÉÒÔ´òÓ¡³öFFmpegÀà¿âµÄÏÂÁĞĞÅÏ¢£º
-Protocol:  FFmpegÀà¿âÖ§³ÖµÄĞ­Òé
-AVFormat:  FFmpegÀà¿âÖ§³ÖµÄ·â×°¸ñÊ½
-AVCodec:   FFmpegÀà¿âÖ§³ÖµÄ±à½âÂëÆ÷
-AVFilter:  FFmpegÀà¿âÖ§³ÖµÄÂË¾µ
-Configure: FFmpegÀà¿âµÄÅäÖÃĞÅÏ¢
+æœ¬ç¨‹åºæ˜¯åŸºäºFFmpegå‡½æ•°çš„æœ€ç®€å•çš„ç¨‹åºã€‚å®ƒå¯ä»¥æ‰“å°å‡ºFFmpegç±»åº“çš„ä¸‹åˆ—ä¿¡æ¯ï¼š
+Protocol:  FFmpegç±»åº“æ”¯æŒçš„åè®®
+AVFormat:  FFmpegç±»åº“æ”¯æŒçš„å°è£…æ ¼å¼
+AVCodec:   FFmpegç±»åº“æ”¯æŒçš„ç¼–è§£ç å™¨
+AVFilter:  FFmpegç±»åº“æ”¯æŒçš„æ»¤é•œ
+Configure: FFmpegç±»åº“çš„é…ç½®ä¿¡æ¯
 
 
 This is the simplest program based on FFmpeg API. It can show following 

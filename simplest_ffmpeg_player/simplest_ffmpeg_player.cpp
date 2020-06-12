@@ -1,26 +1,3 @@
-/**
- * 最简单的基于FFmpeg的视频播放器 2
- * Simplest FFmpeg Player 2
- *
- * 雷霄骅 Lei Xiaohua
- * leixiaohua1020@126.com
- * 中国传媒大学/数字电视技术
- * Communication University of China / Digital TV Technology
- * http://blog.csdn.net/leixiaohua1020
- *
- * 第2版使用SDL2.0取代了第一版中的SDL1.2
- * Version 2 use SDL 2.0 instead of SDL 1.2 in version 1.
- *
- * 本程序实现了视频文件的解码和显示(支持HEVC，H.264，MPEG2等)。
- * 是最简单的FFmpeg视频解码方面的教程。
- * 通过学习本例子可以了解FFmpeg的解码流程。
- * This software is a simplest video player based on FFmpeg.
- * Suitable for beginner of FFmpeg.
- *
- */
-
-
-
 #include <stdio.h>
 
 #define __STDC_CONSTANT_MACROS
